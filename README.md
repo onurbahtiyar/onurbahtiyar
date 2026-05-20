@@ -1,21 +1,225 @@
-# 💫 About Me:
-👋 Hi, I'm Onur Bahtiyar. <br>💻 I work as a Full-stack developer at Tırsan Treyler. <br>👨‍💻 I am skilled in languages such as C#, Angular, TypeScript, and Python. <br>🚀 I'm always open to learning new technologies and contributing to open source projects.
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/onurbahtiyar/onurbahtiyar/main/banner.svg" alt="banner" width="100%" />
+
+<a href="https://github.com/onurbahtiyar">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=620&lines=Builder+of+AI-powered+systems;Technical+Lead+%E2%80%94+AI+%26+Digital+Transformation;2x+BTK+%26+Google+Hackathon+Champion+%F0%9F%8F%86;C%23+%E2%80%A2+.NET+%E2%80%A2+Angular+%E2%80%A2+Python+%E2%80%A2+Gemini;Shipping+at+scale%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<p>
+  <a href="https://linkedin.com/in/onur-bahtiyar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/cxoder"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://instagram.com/cxoder"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://youtube.com/@cxoder"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://twitch.tv/cxoder"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=onurbahtiyar&color=70a5fd&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+
+</div>
+
+<br/>
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
+
+```bash
+$ whoami --verbose
+> Onur Bahtiyar :: Technical Lead :: AI & Digital Transformation
+> Sakarya, Türkiye 🇹🇷  ::  4+ years shipping production code
+> Building AI-powered platforms at enterprise scale
+
+$ cat ~/.bashrc | grep -i focus
+export FOCUS="AI agents · LLM tooling · Clean Architecture · System Design"
+export STATUS="Always learning, always shipping 🚀"
+export MOOD="🎯 obsessed with AI as a multiplier"
+
+$ ls -la /trophies/
+🏆 btk-google-2025.md          (Cognify Commerce — Winner)
+🏆 btk-google-2024.md          (Interview Genie — Winner)
+🛡️ siber-yildiz-2022.md        (National CTF — Top Rank)
+🚩 akademik-bilisim-2018.md    (CTF Tournament — 1st Place)
+✈️ defend-x.md                 (Armed Drone R&D — 1st Place)
+
+$ echo "Ready for the next challenge."
+```
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cxoder) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/onur-bahtiyar) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/cxoder) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/cxoder) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@cxoder) 
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=onurbahtiyar&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=onurbahtiyar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=onurbahtiyar&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+## 🏅 &nbsp;Honors & Awards
 
----
-[![](https://visitcount.itsvg.in/api?id=onurbahtiyar&icon=6&color=1)](https://visitcount.itsvg.in)
+<div align="center">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://img.shields.io/badge/%F0%9F%8F%86%20BACK--TO--BACK%20CHAMPION-FFD700?style=for-the-badge&labelColor=1a1b27" />
+
+### BTK &amp; Google Hackathon · Two consecutive wins (2024 &amp; 2025)
+
+<table>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <kbd>&nbsp;2025&nbsp;</kbd>
+      <h3>🥇 Cognify Commerce</h3>
+      <p>AI-powered e-commerce management platform with natural-language data queries, dynamic analytics, price &amp; stock risk forecasting and campaign suggestions.</p>
+      <p>
+        <img src="https://img.shields.io/badge/.NET%208-512BD4?style=flat&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/Angular%2018-DD0031?style=flat&logo=angular&logoColor=white" />
+        <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
+        <img src="https://img.shields.io/badge/Clean%20Arch-38BDAE?style=flat" />
+      </p>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <kbd>&nbsp;2024&nbsp;</kbd>
+      <h3>🥇 Interview Genie</h3>
+      <p>AI-powered education platform built on Google Gemini — an intelligent interview simulator focused on learning outcomes.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" />
+        <img src="https://img.shields.io/badge/EdTech-70A5FD?style=flat" />
+        <img src="https://img.shields.io/badge/AI-BF91F3?style=flat" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- OTHER AWARDS: 3-column grid -->
+<table>
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <kbd>&nbsp;2022&nbsp;</kbd>
+      <h4>🛡️ Siber Yıldız</h4>
+      <sub><i>BTK · USOM</i></sub><br/>
+      <sub><i>National Cyber Incident Response Center</i></sub>
+      <p>Ranked in a <b>national CTF</b> tournament.</p>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <kbd>&nbsp;2018&nbsp;</kbd>
+      <h4>🚩 CTF Tournament</h4>
+      <sub><i>Akademik Bilişim 2018</i></sub><br/>
+      <sub><i>Academic Computing Conference</i></sub>
+      <p><b>1st place</b> · 70-participant competition.</p>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <kbd>&nbsp;R&D&nbsp;</kbd>
+      <h4>✈️ Defend X</h4>
+      <sub><i>Uludağ University</i></sub><br/>
+      <sub><i>7th R&amp;D Information Days</i></sub>
+      <p><b>1st place</b> · Advanced armed drone system for law enforcement.</p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+## 🛠️ &nbsp;Tech Stack
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="right" valign="middle">
+      <img src="https://img.shields.io/badge/-Languages-7AA2F7?style=for-the-badge&labelColor=1a1b27" />
+    </td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=cs,ts,js,py,bash,html,css&perline=10" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right" valign="middle">
+      <img src="https://img.shields.io/badge/-Backend-BF91F3?style=for-the-badge&labelColor=1a1b27" />
+    </td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,fastapi,flask&perline=10" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right" valign="middle">
+      <img src="https://img.shields.io/badge/-Frontend-38BDAE?style=for-the-badge&labelColor=1a1b27" />
+    </td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=angular,vue,react,tailwind,bootstrap,sass&perline=10" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right" valign="middle">
+      <img src="https://img.shields.io/badge/-Database-7AA2F7?style=for-the-badge&labelColor=1a1b27" />
+    </td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis&perline=10" />
+      <img src="https://img.shields.io/badge/MS_SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white&logoWidth=18" height="48" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right" valign="middle">
+      <img src="https://img.shields.io/badge/-Cloud%20%26%20DevOps-BF91F3?style=for-the-badge&labelColor=1a1b27" />
+    </td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=gcp,firebase,docker,linux,git,nginx&perline=10" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right" valign="middle">
+      <img src="https://img.shields.io/badge/-AI%20%26%20Tools-38BDAE?style=for-the-badge&labelColor=1a1b27" />
+    </td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,postman,vscode,visualstudio&perline=10" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right" valign="middle">
+      <img src="https://img.shields.io/badge/-Design-7AA2F7?style=for-the-badge&labelColor=1a1b27" />
+    </td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=figma,ps,ai,ae,xd&perline=10" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right" valign="middle">
+      <img src="https://img.shields.io/badge/-Mobile%20%2F%20IoT-BF91F3?style=for-the-badge&labelColor=1a1b27" />
+    </td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=unity,androidstudio,arduino,raspberrypi&perline=10" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+## 📊 &nbsp;GitHub Statistics
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/onurbahtiyar/onurbahtiyar/main/metrics.svg" alt="Metrics" />
+
+<br/><br/>
+
+<img height="195" src="https://streak-stats.demolab.com?user=onurbahtiyar&theme=tokyonight&hide_border=true&background=1A1B27&stroke=1A1B27&ring=BF91F3&fire=BF91F3&currStreakLabel=BF91F3&sideNums=38BDAE&sideLabels=70A5FD&dates=38BDAE" />
+
+</div>
+
+<br/>
+
+## 🏆 &nbsp;Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=onurbahtiyar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+</div>
+
+<br/>
+
+<div align="center">
+
+### Connect with me
+
+<a href="https://linkedin.com/in/onur-bahtiyar"><img src="https://img.shields.io/badge/-Get_in_touch-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/onurbahtiyar/onurbahtiyar/main/footer.svg" alt="footer" width="100%" />
